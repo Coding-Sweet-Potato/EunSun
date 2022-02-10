@@ -1,5 +1,3 @@
 # EunSun
 
-은선이 바보
-
-은선이 이쁘다
+HackerRank 주차별 4문제씩
